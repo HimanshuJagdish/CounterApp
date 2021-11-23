@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Project Snap
+
+<img width="1440" alt="Screenshot 2021-11-23 at 1 19 51 PM" src="https://user-images.githubusercontent.com/81013870/142987462-7b73cfac-f816-4843-9bee-1aec3ee8ae5a.png">
+
